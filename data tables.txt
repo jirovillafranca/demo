@@ -9,8 +9,7 @@
     <title>Simple Table</title>
 </head>
 
-<body>
-
+sdada
     <h2>Sample Table</h2>
 
     <table class="table table-striped table-bordered" id="testtable" class="display">
